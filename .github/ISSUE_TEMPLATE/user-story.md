@@ -15,3 +15,9 @@ assignees: ''
 * [document what you know]
 
 ###Acceptance Criteria:
+
+```gherkin
+Given [Some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
+```
